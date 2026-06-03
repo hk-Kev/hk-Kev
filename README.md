@@ -15,9 +15,6 @@ My primary toolkit consists of HTML, CSS, JavaScript, and React. I prioritize wr
 
 I actively practice and test my problem-solving skills on platforms like Codewars and Scrimba. I do not just solve challenges; I build them.
 
-### ⚡ Beyond the Terminal
-
-When I am not mapping out academic course schedules or writing code, I am usually speedcubing. I actively combine these interests by exploring how to build custom web timers and logic tools for Rubik's cube solves.
 
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hirwa-kayihura-kevin-427932350/)
