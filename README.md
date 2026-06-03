@@ -1,4 +1,4 @@
-# >_ Hello, World. I am Kevin Hirwa Kayihura.
+# Hello, I am Kevin Hirwa Kayihura.
 
 I am a Software Engineering university student focused on full-stack web development. I specialize in building clean, highly functional applications with a minimalist, retro computer terminal aesthetic(that's what I like, don't judge). I prefer deep-diving into the JavaScript ecosystems for both frontend at the moment. I believe in mastering the fundamentals before moving on to complex frameworks.
 
