@@ -5,11 +5,13 @@ I am a Software Engineering university student focused on full-stack web develop
 ### 🚀 What I Am Building
 
 **MenyaRules**
-I am currently developing a web application designed to help users prepare for their Provisional Driving theory exams. Built with React, Vite, and Supabase, the platform features a custom session hydration system to prevent progress loss, secure role-based database access, and full multilingual support spanning English, French, and Kinyarwanda. It also includes a custom public API for driving regulations. Deployed Version [MenyaRules](menyarules.vercel.app)
+I am currently developing a web application designed to help users prepare for their Provisional Driving theory exams. Built with React, Vite, and Supabase, the platform features a custom session hydration system to prevent progress loss, secure role-based database access, and full multilingual support spanning English, French, and Kinyarwanda. It also includes a custom [public API](api-menya-rules.vercel.app) for driving regulations. Deployed Version [MenyaRules](menyarules.vercel.app)
 
 ### 🛠️ Core Stack
 
 My primary toolkit consists of HTML, CSS, JavaScript, and React. I prioritize writing efficient, ground-up logic over relying heavily on external libraries.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📈 Continuous Learning & Certifications
 
