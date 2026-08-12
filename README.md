@@ -21,4 +21,4 @@ I actively practice and test my problem-solving skills on platforms like Codewar
 
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hirwa-kayihura-kevin-427932350/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kevin-hirwa-kayihura-427932350/)
